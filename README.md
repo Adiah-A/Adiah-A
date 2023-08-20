@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Adiah Amadou</b><img src="<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Adiah Amadou</b><img src="<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc"></a></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bonjour+à+vous..&hearts;Self-teaching+Full-Stack+Developement,;Computer+Science+Student,;Active+Learner,;Machine+Learning+Newbie,;And+much+more...<3!"></a>
@@ -48,7 +48,7 @@
 
 <br>
 
--**Database Packages**:
+- **Database Packages**:
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
@@ -85,9 +85,9 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="YOUR_USERNAME"/>
+<a href="https://github.com/Adiah-A/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adiah-A&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adiah-A&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Adiah-A"/>
 </a>
 </div>
 
