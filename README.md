@@ -71,8 +71,7 @@
 </p>
 
 <p>
-  <b> Let's Connect..!</b><br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+  <b> Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><br>
 <div align="center">
   <a href="https://linkedin.com/in/adiah-amadou" target="_blank">
     <img src="https://img.shields.io/badge/linkedin:%20adiah-amadou-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
