@@ -73,15 +73,13 @@
 <p>
   <b> Let's Connect..!</b><br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
+<div align="center">
   <a href="https://linkedin.com/in/adiah-amadou" target="_blank">
     <img src="https://img.shields.io/badge/linkedin:%20adiah-amadou-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <br>
-  <a href="mailto:amadouadiah@gmail.com@" target="_blank">
+  <a href="mailto:amadouadiah@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail:%20amadouadiah-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
   </a>
-  <br>
-</div>div>
+</div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
