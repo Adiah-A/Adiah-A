@@ -6,7 +6,7 @@
 
 <br>
 
-<picture><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif" width="70px"></picture> ## About me
+<picture><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif" width="70px"></picture> <h3>About me</h3>
 
 <br>
 
