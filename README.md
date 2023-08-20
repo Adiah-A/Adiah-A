@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Adiah Amadou</b><img src="<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc"></a></h1>
+<h1 align="center"><b>Hi, I'm Adiah Amadou</b><img src="https://giphy.com/embed/JVmYAO3MkGNiM" width="35" height="35"><img><p><a href="https://giphy.com/gifs/hello-test-hi-JVmYAO3MkGNiM"></a></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bonjour+à+vous..&hearts;Self-teaching+Full-Stack+Developement,;Computer+Science+Student,;Active+Learner,;Machine+Learning+Newbie,;And+much+more...<3!"></a>
@@ -107,8 +107,8 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/Adiah_Amadou" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Adiah_Amadou-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/adiah-amadou" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  adiah-amadou-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
