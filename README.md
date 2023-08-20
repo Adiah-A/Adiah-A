@@ -13,7 +13,7 @@
   <li>A passionate problem solver</li>
   <li>Currently learning Fullstack Web Development on my own</li>
   <li>Studying Computer science on a Machine learning track at UMD</li>
-  <li>I’m open for new opportunities, this is <a href="https://read.cv/YOUR_USERNAME">my resume</a></li>
+  <li>I’m open for new opportunities, this is <a href="https://drive.google.com/file/d/1HP98KzJaKI7QLkQtjlLwpVGosExyx8tU/view?usp=sharing">my resume</a></li>
 </ul>
 
 <p>
@@ -48,6 +48,7 @@
   <strong>Database Packages:</strong><br>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
 </p>
 
 <p>
@@ -70,7 +71,9 @@
 </p>
 
 <p>
-  <b> Let's Connect..!</b><br>
+  <b> Let's Connect..!</b><br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
   <a href="https://linkedin.com/in/adiah-amadou" target="_blank">
     <img src="https://img.shields.io/badge/linkedin:%20adiah-amadou-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
@@ -79,5 +82,6 @@
     <img src="https://img.shields.io/badge/gmail:%20amadouadiah-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
   </a>
   <br>
+</div>div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
