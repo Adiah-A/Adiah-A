@@ -1,13 +1,12 @@
-<h1 align="center"><b>Hi, I'm Adiah Amadou</b><img src="https://giphy.com/embed/JVmYAO3MkGNiM" width="35" height="35"><img><p><a href="https://giphy.com/gifs/hello-test-hi-JVmYAO3MkGNiM"></a></h1>
+<h1 align="center"><b>Hi , I'm Adiah Amadou </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bonjour+à+vous..&hearts;Self-teaching+Full-Stack+Developement,;Computer+Science+Student,;Active+Learner,;Machine+Learning+Newbie,;And+much+more...<3!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bonjour+à+vous+<3!;Self-teaching+Full-Stack+Developement,;Computer+Science+Student,;Active+Learner,;Machine+Learning+Newbie,;And+much+more...<3!"></a>
 </p>
 
 <br>
 
-## data/typing.gif
-<picture><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif" width="50px"></picture> **About me**
+<picture><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif" width="70px"></picture> ##About me
 
 <br>
 
@@ -83,6 +82,8 @@
 <br>
 
 <div align="center">
+
+![Adiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiah-a&hide=prs)
 
 <a href="https://github.com/Adiah-A/">
   <img src="https://github-readme-stats.vercel.app/api?username=Adiah-A&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
