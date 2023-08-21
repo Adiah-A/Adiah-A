@@ -1,7 +1,10 @@
-<h1 align="center"><b>Hi , I'm Adiah Amadou </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , Welcome to my Github! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bonjour+à+vous+<3!;Self-teaching+Full-Stack+Developement,;Computer+Science+Student,;Active+Learner,;Machine+Learning+Newbie,;And+much+more...<3!"></a>
+</p>
+
+<p> 🔒 PS: While many of my repositories are currently set to private due to specific reasons, I'm more than willing to provide access to them and engage in discussions about potential collaboration opportunities. Feel free to reach out to me!
 </p>
 
 <p>
