@@ -16,7 +16,7 @@
   <li>A passionate problem solver</li>
   <li>Currently learning Fullstack Web Development on my own</li>
   <li>Studying Computer science on a Machine learning track at UMD</li>
-  <li>I’m open for new opportunities, this is <a href="https://drive.google.com/file/d/1HP98KzJaKI7QLkQtjlLwpVGosExyx8tU/view?usp=sharing">my resume</a></li>
+  <li>I’m open for new opportunities, this is <a href="https://drive.google.com/file/d/1c1LMeLzGlDvSJ-eoLihkKdl3uGvqVNr3/view?usp=sharing">my resume</a></li>
 </ul>
 
 <p>
